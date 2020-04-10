@@ -1,0 +1,40 @@
+
+    1. What is Semantic HTML? Well organized and easy to understand
+    2. What is HTML used for? Markup language for documents designed to be displayed in a web browser
+    3. What is an attribute and where do we put it? An attribute is used to define the characteristics of an HTML
+    4. What is the h1 tag used for? How many times should I use it on a page? The mian heading and only once
+    5. Name two tags that have required attributes input & textarea
+    6. What do we put in the head of our HTML document? !DOCTYPE html
+    7. What is an id?  a unique id for an HTML element
+    8. What elements can I add an id to? P tag
+    9. How many times can I use the same id on a page? None
+    10. What is a class? an attribute which specifies one or more class names for an HTML
+    11. What elements can I add a class to? Section tag
+    12. How many times can I use the same class on a page? multiple times
+    13. How do I get my link to open in a new tab? target='_blank'
+    14. What is the alt attribute in the image tag used for? for screen readers
+    15. How do I reference an id? #
+    16. What is the difference between a section and a div section is semantic and a div is not
+    17. What is CSS used for? for styling
+    18. How to we select an element? Example - every h2 on the page class
+    19. What is the difference between a class and an id? - Give me an example of when I might use each one class is to style mutiple nav bars and id will to be style about page
+    20. How do we select classes in CSS? .class
+    21. How do we select a p element with a single class of “human””?.human
+    22. What is a parent child selector? When would this be useful? anything nested inside of a element
+    23. How do you select all links within a div with the class of sidebar? div a
+    24. What is a pseudo selector? hover
+    25. What do we use the change the spacing between lines? line-height
+    26. What do we use to change the spacing between letters? letter spacing 
+    27. What do we use to to change everything to CAPITALS? lowercase? text-transform
+    28. How do I add a 1px border around my div that is dotted and black? borders 1px dotted black
+    29. How do I select everything on the page? Ctrl A
+    30. How do I write a comment in CSS? */
+    31. How do I find out what file I am in, when I am using the command line? current directory
+    32. Using the command line - how do I see a list of files/folders in my current folder? ls
+    33. How do I remove a file via the command line? Why do I have to be careful with this? RM & cause it won't give no prompt asking are you sure
+    34. Why should I use version control? allow you to compare files, identify differences, and merge the changes 
+    35. How often should I commit to github? as needed
+    36. What is the command we would use to push our repo up to github? git push
+    37. Walk me through Lambda's git flow. fork, add tl,  clone, branch, submit
+
+https://codepen.io/ThaTurtleGuy/pen/ZEbEZwX
